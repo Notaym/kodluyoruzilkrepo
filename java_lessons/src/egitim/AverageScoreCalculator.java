@@ -1,3 +1,5 @@
+package src.egitim;
+
 import java.util.Scanner;
 
 public class AverageScoreCalculator {
