@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class AverageScoreCalculator {
     public static void main(String[] args) {
+
+
         //DEĞİŞKENLERİ OLUŞTURUYORUZ
         int mat,fizik,kimya,turkce,muzik,tarih;
 
