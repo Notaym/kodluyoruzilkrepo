@@ -1,0 +1,6 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+# Derleme dosyalarını dışla
+*.class
+out/
