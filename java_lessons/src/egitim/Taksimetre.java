@@ -9,7 +9,7 @@ public class Taksimetre {
         double perKm = 2.20 , total , startPrice = 10;
 
         Scanner input =new Scanner(System.in);
-        
+
         System.out.print("Mesafeyi km cinsinden giriniz: ");
         km = input.nextInt();
 
